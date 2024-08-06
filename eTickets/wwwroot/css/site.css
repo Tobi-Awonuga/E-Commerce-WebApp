@@ -1,0 +1,91 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+/* General Styles */
+/* General Styles */
+
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: #ffd6ff; /* Light gray background color for the entire page */
+    font-family: raleway, Lora; /* Sets a clean, modern font */
+    color: #333; /* Sets a dark gray color for text */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensures body takes at least full viewport height */
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+}
+
+/* Navbar Brand */
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    color: #1b6ec2; /* Blue color for the brand */
+    text-decoration: none; /* Removes underline from links */
+}
+
+/* Link Styling */
+a {
+    color: #ff0000; /* Red color for all links */
+}
+
+/* Primary Button Styling */
+.btn-primary {
+    color: #fff; /* White text color for buttons */
+    background-color: #1b6ec2; /* Blue background for primary buttons */
+    border-color: #1861ac; /* Darker blue border for primary buttons */
+}
+
+/* Active Nav Link Styling */
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #ff006e; /* Pink color for active nav links */
+    background-color: #1b6ec2; /* Blue background for active nav links */
+    border-color: #1861ac; /* Darker blue border for active nav links */
+}
+
+/* Footer Styles */
+.footer {
+    background: rgba(255, 255, 255, 0.9); /* Slightly transparent white background */
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    line-height: 60px; /* Vertically centers the text */
+    border-top: 1px solid #e5e5e5; /* Light gray border on top */
+}
+
+/* Border and Shadow Styles */
+.border-top {
+    border-top: 1px solid #e5e5e5; /* Light gray border for top */
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5; /* Light gray border for bottom */
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .1); /* Slightly larger shadow for depth */
+}
+
+/* Button Policy Styling */
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Responsive Font Sizes */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
