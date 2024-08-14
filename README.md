@@ -5,7 +5,7 @@ Welcome to the Movie Ticket Booking Web App** – a seamless and user-friendly p
 
 **[Demo Video](https://youtu.be/0uYsw9zoUL0)** 
 
-![Movie Ticket Booking App](![finalprojectticket](https://github.com/user-attachments/assets/cecb8f97-c7b8-4a92-a073-785956f62818)
+[View Screenshots & App Development](C:\Users\pc\Downloads\Presentation 6 (2).pdf
 )
 
 ---
