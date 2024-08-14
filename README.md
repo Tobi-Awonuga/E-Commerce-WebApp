@@ -1,9 +1,7 @@
 # E-Commerce Web App (For Movie Ticket Booking)
 
 # Overview
-Welcome to the Movie Ticket Booking Web App** – a seamless and user-friendly platform designed to enhance the movie-going experience by allowing users to browse, select, and book movie tickets online. This project showcases my skills in full-stack web development, emphasizing clean design, intuitive user interfaces, and robust back-end functionality.
-
-**[Demo Video](https://youtu.be/0uYsw9zoUL0)** 
+Welcome to my Ticket Booking Web App – a seamless and user-friendly platform designed to enhance the movie-going experience by allowing users to browse, select, and book movie tickets online. This project showcases my skills in full-stack web development, emphasizing clean design, intuitive user interfaces, and robust back-end functionality.
 
 [View Screenshots & App Development](./Presentation%206%20(2).pdf)
 
